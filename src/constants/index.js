@@ -22,7 +22,9 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs
+  threejs,
+  flutter,
+  vuejs,
 } from '../assets';
 
 export const navLinks = [
@@ -85,6 +87,10 @@ const technologies = [
     icon: redux
   },
   {
+    name: 'Vue Js',
+    icon: vuejs
+  },
+  {
     name: 'Tailwind CSS',
     icon: tailwind
   },
@@ -99,6 +105,10 @@ const technologies = [
   {
     name: 'Three JS',
     icon: threejs
+  },
+  {
+    name: 'Flutter',
+    icon: flutter
   },
   {
     name: 'git',
