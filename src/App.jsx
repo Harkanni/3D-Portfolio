@@ -3,7 +3,7 @@ import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Stars
 
 
 
-const App = ({ prop }) => {
+const App = () => {
   return (
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
