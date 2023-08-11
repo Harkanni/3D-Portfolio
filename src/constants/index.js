@@ -25,6 +25,9 @@ import {
   threejs,
   flutter,
   vuejs,
+
+  aisummarizer,
+  memories,
 } from '../assets';
 
 export const navLinks = [
@@ -226,7 +229,7 @@ const projects = [
       }
     ],
     image: carrent,
-    source_code_link: 'https://github.com/'
+    source_code_link: 'https://github.com/Harkanni/Memories'
   },
   {
     name: 'Job IT',
@@ -269,6 +272,49 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: 'https://github.com/'
+  },
+// PERSONAL PROJECTS ONLY
+  {
+    name: 'AI Summarizer',
+    description:
+      "Simplify your reading with 🌟 Summize 📚, an innovative open-source project powered by OpenAI's GPT-4 🤖 article summarizer that transforms lengthy articles into ✨ clear and concise summaries ✂️📝.",
+    tags: [       
+      {
+        name: 'tailwindcss',
+        color: 'blue-text-gradient'
+      },          
+      {
+        name: 'vite',
+        color: 'pink-text-gradient'
+      },
+      {
+        name: 'css',
+        color: 'green-text-gradient'
+      },  
+    ],
+    image: aisummarizer,
+    source_code_link: 'https://github.com/Harkanni/Summize'
+  },
+  {
+    name: 'Memories Social',
+    description:
+      "A user-friendly social media application that allows users to post interesting events that happened in their lives. Crafted using React ⚛️, Node.js 🌐, Express 🚀, and MongoDB 🍃, it's all about reliving memories! 🌟📆",
+    tags: [       
+      {
+        name: 'react',
+        color: 'blue-text-gradient'
+      },
+      {
+        name: 'restapi',
+        color: 'green-text-gradient'
+      },
+      {
+        name: 'scss',
+        color: 'pink-text-gradient'
+      }
+    ],
+    image: memories,
+    source_code_link: 'https://github.com/Harkanni/Memories'
   }
 ];
 

@@ -28,16 +28,16 @@ const Contact = () => {
     setLoading(true);
 
     emailjs.send(
-      'service_f9h71oe',
-      'template_vqeyovk',
+      import.meta.env.VITE_APP_SERVICE_ID,
+      import.meta.env.VITE_APP_TEMPLATE_ID,
       {
         from_name: form.name,
         to_name: 'Akanni Emmanuel',
-        from_email: form.email,
-        to_email: 'sendaraven2@gmail.com',
+        from_email: form.email.trim().toLowerCase(),
+        to_email: import.meta.env.VITE_APP_EMAILJS_RECIEVER,
         message: form.message
       },
-      'GOfKTEyxK7JCgCRNa'
+      import.meta.env.VITE_APP_EMAILJS_KEY
     ).then(() => {
       setLoading(false)
       alert("Thank you. I will get back to you.")

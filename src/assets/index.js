@@ -33,6 +33,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import aisummarizer from "./aisummarizer.png"
+import memories from "./memories.png"
+
+
 export {
   logo,
   backend,
@@ -64,4 +68,7 @@ export {
   tripguide,
   flutter,
   vuejs,
+
+  aisummarizer,
+  memories,
 };
