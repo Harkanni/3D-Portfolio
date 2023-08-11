@@ -1,6 +1,6 @@
 # React JS Modern 3D Portfolio using Three.js
 
-![React JS Modern 3D Portfolio using Three.js](/.github/images/img_main.png "React JS Modern 3D Portfolio using Three.js")
+![React JS Modern 3D Portfolio using Three.js](/readmeIMG/hero.png "React JS Modern 3D Portfolio using Three.js")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Harkanni "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/Harkanni/3d-portfolio)](https://github.com/Harkanni/3d-portfolio/blob/main/LICENSE.md "GitHub license")
@@ -49,13 +49,13 @@ VITE_APP_EMAILJS_RECIEVER=your@email.com
 
 ## :camera: Screenshots:
 
-![Showcase your skills](/.github/images/img1.png "Showcase your skills")
+![Showcase your skills](/readmeIMG/techstack.png "Showcase your skills")
 
-![Showcase your projects](/.github/images/img2.png "Showcase your projects")
+![Showcase your projects](/readmeIMG/projects.png "Showcase your projects")
 
-![Modern UI/UX](/.github/images/img3.png "Modern UI/UX")
+![Modern UI/UX](/readmeIMG/testimonials.png "Modern UI/UX")
 
-![Functional Contact form](/.github/images/img4.png "Functional Contact form")
+![Functional Contact form](/readmeIMG/contact.png "Functional Contact form")
 
 ## :gear: Built with
 
@@ -81,9 +81,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app "Tweet")
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
+[![GitHub followers](https://img.shields.io/github/followers/Harkanni?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/the_tech_lead "Tweet")
 
 ## :star: Give A Star
 
@@ -93,7 +92,7 @@ You can also give this repository a star to show more people and they can use th
 
 In the project directory, you can run:
 
-### `yarn run dev`
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -101,12 +100,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `yarn test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn run build`
+### `npm run build`
 
 Builds the app for production to the `dist` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -116,7 +115,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `npm eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -152,6 +151,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn run build` fails to minify
+### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
