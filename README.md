@@ -75,14 +75,10 @@ VITE_APP_EMAILJS_RECIEVER=your@email.com
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Harkanni?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/the_tech_lead "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/Harkanni?style=social&label=Follow&maxAge=2592000)](https://github.com/Harkanni "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHarkanni)](https://twitter.com/the_tech_lead "Tweet")
 
 ## :star: Give A Star
 
