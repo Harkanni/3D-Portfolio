@@ -8,7 +8,6 @@
 [![GitHub branches](https://badgen.net/github/branches/Harkanni/3d-portfolio)](https://github.com/Harkanni/3d-portfolio/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Harkanni/3d-portfolio/main)](https://github.com/Harkanni/3d-portfolio/commits "Github commits")
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c77ba92-e2f5-468e-99f1-3543906a90cb/deploy-status)](https://shubam.netlify.app/ "Netlify Status")
 
 [![GitHub issues](https://img.shields.io/github/issues/Harkanni/3d-portfolio)](https://github.com/Harkanni/3d-portfolio/issues "GitHub issues")
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Harkanni/3d-portfolio)](https://github.com/Harkanni/3d-portfolio/pulls "GitHub pull requests")
