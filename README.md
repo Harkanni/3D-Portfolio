@@ -1,6 +1,6 @@
 # React JS Modern 3D Portfolio using Three.js
 
-![React JS Modern 3D Portfolio using Three.js](/readmeIMG/hero.png "React JS Modern 3D Portfolio using Three.js")
+![React JS Modern 3D Portfolio using Three.js](/readmeIMG/heroo.png "React JS Modern 3D Portfolio using Three.js")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Harkanni "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/Harkanni/3d-portfolio)](https://github.com/Harkanni/3d-portfolio/blob/main/LICENSE.md "GitHub license")
