@@ -28,6 +28,7 @@ import {
 
   aisummarizer,
   memories,
+  threadsApp,
 } from '../assets';
 
 export const navLinks = [
@@ -315,7 +316,28 @@ const projects = [
     ],
     image: memories,
     source_code_link: 'https://github.com/Harkanni/Memories'
-  }
+  },
+  {
+   name: 'Threads Social',
+   description:
+     "🧵 'Threads Social' 🌟: A user-friendly social media application that lets you share the most exciting life events. Built with Next.js 13, MongoDB, and Tailwind CSS. Join, post, and explore unforgettable experiences! 🚀📸 #ThreadsSocial",
+   tags: [       
+     {
+       name: 'tailwindcss',
+       color: 'blue-text-gradient'
+     },          
+     {
+       name: 'next.js',
+       color: 'pink-text-gradient'
+     },
+     {
+       name: 'mongodb',
+       color: 'green-text-gradient'
+     },  
+   ],
+   image: threadsApp,
+   source_code_link: 'https://github.com/Harkanni/threads-app'
+ },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

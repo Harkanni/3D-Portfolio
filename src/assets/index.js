@@ -35,6 +35,7 @@ import tripguide from "./tripguide.png";
 
 import aisummarizer from "./aisummarizer.png"
 import memories from "./memories.png"
+import threadsApp from "./threadsApp.png"
 
 
 export {
@@ -71,4 +72,5 @@ export {
 
   aisummarizer,
   memories,
+  threadsApp
 };

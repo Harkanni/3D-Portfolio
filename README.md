@@ -65,11 +65,11 @@ VITE_APP_EMAILJS_RECIEVER=your@email.com
 
 [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](https://tailwindcss.com/ "Tailwind CSS")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech/ "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Harkanni/ "Built with Love")
 
 ## :wrench: Stats
 
-![Stats for this App](/.github/images/stats.svg "Stats for this App")
+![Stats for this App](/readmeIMG/stats.svg "Stats for this App")
 
 ## :raised_hands: Contribute
 
