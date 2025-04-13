@@ -28,7 +28,7 @@ import shopify from './company/shopify.png';
 import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';
 import punch from './company/punch.png';
-import hng from './company/hng.png'
+import hng from './company/HNG.png'
 
 import carrent from './carrent.png';
 import jobit from './jobit.png';
