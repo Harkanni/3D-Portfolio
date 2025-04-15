@@ -29,9 +29,11 @@ import {
   threejs,
   flutter,
   vuejs,
+
   aisummarizer,
   memories,
-  threadsApp
+  threadsApp,
+  fintech
 } from '../assets';
 
 export const navLinks = [
@@ -215,6 +217,27 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: 'Spark Card (FinTech)',
+    description:
+      'Take control of your finances with a sleek, secure card. Spend smarter, earn cashback, and manage your money across accounts—all from one powerful platform.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient'
+      },
+      {
+        name: 'mongodb',
+        color: 'green-text-gradient'
+      },
+      {
+        name: 'tailwind',
+        color: 'pink-text-gradient'
+      }
+    ],
+    image: fintech,
+    source_code_link: 'https://fintecc.netlify.app/'
+  },
   {
     name: 'Car Rent',
     description:

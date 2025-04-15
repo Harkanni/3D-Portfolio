@@ -37,6 +37,7 @@ import tripguide from './tripguide.png';
 import aisummarizer from './aisummarizer.png';
 import memories from './memories.png';
 import threadsApp from './threadsApp.png';
+import fintech from './SparkFinTech-SS.png'
 
 export {
   logo,
@@ -73,7 +74,9 @@ export {
   tripguide,
   flutter,
   vuejs,
+
   aisummarizer,
   memories,
-  threadsApp
+  threadsApp,
+  fintech
 };
